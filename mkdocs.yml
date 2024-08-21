@@ -1,0 +1,15 @@
+site_name: NFácil - Importador XML
+site_url: https://nfacil.github.io/
+site_description: Importador XML para Microsiga Protheus
+site_author: AFSouza
+
+repo_url: https://github.com/nfacil/nfacil.github.io/
+
+theme: readthedocs
+
+nav:
+  - Início: index.md
+
+extra_css:
+  - css/extra.css
+
