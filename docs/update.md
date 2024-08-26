@@ -4,9 +4,11 @@ O primeiro passo é baixar a versão atualizada do patch do NFácil, corresponde
 
 É recomendado que este procedimento seja realizado em ambiente de Homologação e validado antes de ser implementado em ambiente de produção.
 
-Verifique qual a versão correta para seu ambiente seguindo o link abaixo.
+Verifique qual a versão correta para seu ambiente e realize o download através  dos links abaixo.
 
-[Releases do NFácil](https://github.com/nfacil/nfacil.github.io/releases/)
+[Patch de atualização NFácil para Protheus 12.1.2210](https://github.com/nfacil/nfacil.github.io/releases/download/12.1.2210/custom-1212210-nfacil-full-v.4.4.01.001.ptm)
+
+[Patch de atualização NFácil para Protheus 12.1.2310](https://github.com/nfacil/nfacil.github.io/releases/download/12.1.2310/custom-1212310-nfacil-full-v.4.4.01.001.ptm)
 
 Com o arquivo em mãos, efetue a aplicação do patch e em seguida execute a rotina **U_NFACUPDN** para compatibilização do ambiente.
 
