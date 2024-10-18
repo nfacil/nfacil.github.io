@@ -9,6 +9,8 @@ theme: readthedocs
 
 nav:
   - Início: index.md
+  - Atualização: update.md
+  - Sobre: about.md
 
 extra_css:
   - css/extra.css

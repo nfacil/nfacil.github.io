@@ -6,9 +6,9 @@ O primeiro passo é baixar a versão atualizada do patch do NFácil, corresponde
 
 Verifique qual a versão correta para seu ambiente e realize o download através  dos links abaixo.
 
-[Patch de atualização NFácil para Protheus 12.1.2210](https://github.com/nfacil/nfacil.github.io/releases/download/12.1.2210/custom-1212210-nfacil-full-v.4.4.01.001.ptm)
+[Patch de atualização NFácil para Protheus 12.1.2210](hhttps://github.com/nfacil/nfacil.github.io/releases/download/12.1.2210/custom-1212210-nfacil-full-v.4.4.01.001a.ptm)
 
-[Patch de atualização NFácil para Protheus 12.1.2310](https://github.com/nfacil/nfacil.github.io/releases/download/12.1.2310/custom-1212310-nfacil-full-v.4.4.01.001.ptm)
+[Patch de atualização NFácil para Protheus 12.1.2310](https://github.com/nfacil/nfacil.github.io/releases/download/12.1.2310/custom-1212310-nfacil-full-v.4.4.01.001a.ptm)
 
 Com o arquivo em mãos, efetue a aplicação do patch e em seguida execute a rotina **U_NFACUPDN** para compatibilização do ambiente.
 
@@ -43,3 +43,7 @@ Com a finalização da atualização será apresentada a tela para consultar e/o
 Atualização cocluída!
 
 ![Atualização Concluída](img/finalizar.png)
+
+## Atualização Serviços Web Sefaz
+
+Depois de realizar a atualização do NFácil, é recomendável realizar a atualização dos serviços web da Sefaz, siga as instruções disponibilizadas [aqui](webservice.md).
