@@ -6,9 +6,11 @@ O primeiro passo é baixar a versão atualizada do patch do NFácil, corresponde
 
 Verifique qual a versão correta para seu ambiente e realize o download através  dos links abaixo.
 
-[Patch de atualização NFácil para Protheus 12.1.2210](hhttps://github.com/nfacil/nfacil.github.io/releases/download/12.1.2210/custom-1212210-nfacil-full-v.4.4.01.001a.ptm)
+[Patch de atualização NFácil para Protheus 12.1.2210](https://drive.google.com/file/d/1Hxq7cESxuS9p2LNwN2NHhGn0ZFS4iBCH/view?usp=sharing)
 
-[Patch de atualização NFácil para Protheus 12.1.2310](https://github.com/nfacil/nfacil.github.io/releases/download/12.1.2310/custom-1212310-nfacil-full-v.4.4.01.001a.ptm)
+[Patch de atualização NFácil para Protheus 12.1.2310](https://drive.google.com/file/d/1r4Qei4Fj8kn8xGbNfBLuuHryCqagvJ9q/view?usp=sharing)
+
+[Patch de atualização NFácil para Protheus 12.1.2410](https://drive.google.com/file/d/12hHvN7SKD1j6TqPedJ8ZtKirJ_3mCTvm/view?usp=sharing)
 
 Com o arquivo em mãos, efetue a aplicação do patch e em seguida execute a rotina **U_NFACUPDN** para compatibilização do ambiente.
 

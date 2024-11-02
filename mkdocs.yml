@@ -10,6 +10,7 @@ theme: readthedocs
 nav:
   - Início: index.md
   - Atualização: update.md
+  - Web Services: webservice.md
   - Sobre: about.md
 
 extra_css:
