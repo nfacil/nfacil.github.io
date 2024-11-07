@@ -2,22 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://nfacil.github.io/</loc>
-         <lastmod>2024-11-02</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
          <loc>https://nfacil.github.io/about/</loc>
-         <lastmod>2024-11-02</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://nfacil.github.io/update/</loc>
-         <lastmod>2024-11-02</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://nfacil.github.io/dev-guide/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
     <url>
-         <loc>https://nfacil.github.io/webservice/</loc>
-         <lastmod>2024-11-02</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://nfacil.github.io/dev-guide/mata103/</loc>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nfacil.github.io/dev-guide/mata116/</loc>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nfacil.github.io/dev-guide/mata140/</loc>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nfacil.github.io/dev-guide/pontocte/</loc>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nfacil.github.io/dev-guide/pontoimp/</loc>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nfacil.github.io/dev-guide/pontonfe/</loc>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nfacil.github.io/dev-guide/pontonfs/</loc>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nfacil.github.io/user-guide/</loc>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nfacil.github.io/user-guide/update/</loc>
+         <lastmod>2024-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nfacil.github.io/user-guide/webservice/</loc>
+         <lastmod>2024-11-07</lastmod>
     </url>
 </urlset>
