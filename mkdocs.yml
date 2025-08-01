@@ -1,18 +1,104 @@
+# Project information
 site_name: NFácil - Importador XML
 site_url: https://nfacil.github.io/
 site_description: Importador XML para Microsiga Protheus
 site_author: AFSouza
 
-repo_url: https://github.com/nfacil/nfacil.github.io/
+# Copyright
+copyright: Copyright &copy; 2012 - 2025 <a href="https://afsouza.com.br/">AFSouza</a>. 
 
-theme: readthedocs
+# retira "Edit on GitHub"
+#repo_url: https://github.com/nfacil/nfacil.github.io/
 
+# Configuration
+theme:
+  name: material
+  highlightjs: true
+  locale: pt_BR
+  navigation_depth: 4
+  collapse_navigation: false
+  prev_next_buttons_location: none # retira Next/Preview
+  features:
+    - content.code.copy
+    - navigation.footer
+  favicon: assets/favicon.png
+  #logo: assets/images/afsouza.png
+  icon: 
+    - logo: material/home
+
+# Additional configuration
+extra:
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nfacil
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/afsouza-ti
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/afsouzati
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/AFSouza-Tecnologia-100138678014875/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/afsouzati/
+
+# Extensions
+markdown_extensions:
+
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
 nav:
   - Início: index.md
-  - Atualização: update.md
-  - Web Services: webservice.md
+  - Usuário:
+      - Guia do usuário: user-guide/index.md
+      - Atualização: user-guide/update.md
+      - Configurando os Serviços Web: user-guide/webservice.md
+      - Instalando o Certificado Digital: user-guide/certificado.md
+      - Novidades: user-guide/novidades.md
+      - Liberação Release 4.4.01.002: user-guide/release4.002.md
+  - Desenvolvedor: 
+      - Guia do desenvolvedor: dev-guide/index.md
+      - Pontos de Entrada do Microsiga Protheus:
+        - MATA103 - Documento Entrada: dev-guide/mata103.md
+        - MATA116 - Nota Conhecimento Frete: dev-guide/mata116.md
+        - MATA140 - Pré-Nota Entrada: dev-guide/mata140.md
+      - Pontos de Entrada NFácil - Importação XML: dev-guide/pontoimp.md
+      - Pontos de Entrada NFácil NFe: dev-guide/pontonfe.md
+      - Pontos de Entrada NFácil CTe: dev-guide/pontocte.md
+      - Pontos de Entrada NFácil NFSe: dev-guide/pontonfs.md
   - Sobre: about.md
 
 extra_css:
   - css/extra.css
-

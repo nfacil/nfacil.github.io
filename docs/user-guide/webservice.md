@@ -4,14 +4,14 @@ Para que os endereços (URL) dos Serviços Web da Sefaz para [NFe](https://www.n
 
 NFacil > Outras Ações > Configurações > Empresa
 
-![Configurações Empresa](img/configuracoes-empresa.png)
+![Configurações Empresa](../img/configuracoes-empresa.png)
 
 * Acesse o botão "Web Services":
 
-![Botão Web Services](img/botao-web-services.png)
+![Botão Web Services](../img/botao-web-services.png)
 
 * Em seguida acesse o caminho:
 
 Outras Ações > Carga/Atualiza
 
-![Carga/Atualiza](img/carga-atualiza.png)
+![Carga/Atualiza](../img/carga-atualiza.png)

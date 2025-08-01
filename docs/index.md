@@ -1,24 +1,59 @@
-# Bem-vindo à Documentação do NFácil
+# 👋 Bem-vindo à Documentação do NFácil
 
-Documentos, artigos e tutoriais sobre o NFácil estão disponíveis nesta página.
+Documentos, artigos e tutoriais sobre o **NFácil** estão disponíveis nesta página.
 
 ---
 
-Aqui você vai encontrar informações sobre a ferramenta NFácil, desenvolvida pela [AFSouza](https://www.afsouza.com.br), consultoria especializada no ERP Microsiga Protheus da TOTVS.
+## Sobre o NFácil
 
-O NFácil tem o objetivo de tornar mais simples e ágil a inclusão dos documentos fiscais de entrada, ao receber o arquivo XML de uma nota fiscal eletrônica, a rotina realizará a importação e deixará o sistema apto a gerar a pré-nota de entrada. Fazendo as amarrações e validações necessárias.
+O **NFácil** é uma solução desenvolvida pela [AFSouza](https://www.afsouza.com.br), consultoria especializada no ERP **Microsiga Protheus® da TOTVS**.
 
-Trata-se de uma ferramenta que executa diversos serviços como: Leitura, importação, validação na SEFAZ, exporta dados do XML e gera pré-nota de entrada de forma automatizada.
+Seu objetivo é **automatizar e simplificar o processo de importação de documentos fiscais eletrônicos (XML)**, tornando a geração de pré-notas de entrada mais ágil, segura e integrada.
 
-O NFácil foi desenvolvido especificamente para o Microsiga Protheus, portanto funciona de forma nativa, não sendo necessária integração com outras ferramentas externas.
+A ferramenta realiza:
 
-Entre as principais funcionalidades, podemos listar as seguintes:
+- 📥 Leitura do XML
+- 🧩 Validação junto à SEFAZ
+- 🔗 Amarrações entre produtos, fornecedores e pedidos
+- 📄 Geração da pré-nota no Protheus de forma automática
 
-- Importação de arquivos XML por e-mail, diretório ou diretamente da Sefaz, inclusive de forma automatizada;
-- Geração de Pré-nota ou Documento de Entrada;
-- Amarração Produto x Fornecedor de forma simples e rápida;
-- Instalação simples e rápida.
+Além disso, o NFácil funciona **100% dentro do Protheus**, sem necessidade de integrações externas.
 
-## Atualização do NFácil
+---
 
-Para realizar a atualização do NFácil siga as instruções disponibilizadas neste [link](update.md).
+## ⚙️ Funcionalidades principais
+
+- ✅ Integração total com o Protheus
+- 📬 Importação de XML por **e-mail**, **diretório local** ou **Sefaz (automático ou manual)**
+- 🧾 Geração de **Pré-nota** ou **Documento de Entrada**
+- 🧠 Associação inteligente **Produto × Fornecedor**
+- 🔗 Vinculação de **Pedidos de Compra**
+- 🗣️ Manifestação automática ou manual
+- 🚦 Workflow de inconsistências
+- 🚀 Instalação rápida e simples
+
+---
+
+## 🚀 Liberação da versão 4.4.01.002 do NFácil
+
+!!! success "Liberação da versão 4.4.01.002 do NFácil"
+    Estamos disponibilizando uma atualização do NFácil.  
+    👉 [**Clique aqui para acessar os detalhes da versão**](user-guide/release4.002.md){ .md-button }
+
+---
+
+## 📦 Atualização do NFácil
+
+!!! info "Atualização do NFácil"
+    Mantenha seu ambiente sempre atualizado com as últimas melhorias e correções.  
+    👉 [**Clique aqui para ver como atualizar o NFácil**](user-guide/update.md){ .md-button }
+
+---
+
+## 🆕 Novidades do NFácil
+
+!!! tip "Novidades disponíveis"
+    Veja as últimas funcionalidades e melhorias implementadas no NFácil.  
+    👉 [**Confira nossas novidades**](user-guide/novidades.md){ .md-button }
+
+---
