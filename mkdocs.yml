@@ -5,7 +5,7 @@ site_description: Importador XML para Microsiga Protheus
 site_author: AFSouza
 
 # Copyright
-copyright: Copyright &copy; 2012 - 2025 <a href="https://afsouza.com.br/">AFSouza</a>. 
+copyright: Copyright &copy; 2012 - 2026 <a href="https://afsouza.com.br/">AFSouza</a>.
 
 # retira "Edit on GitHub"
 #repo_url: https://github.com/nfacil/nfacil.github.io/
@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2012 - 2025 <a href="https://afsouza.com.br/">AFSouz
 theme:
   name: material
   highlightjs: true
-  locale: pt_BR
+  language: pt-BR
   navigation_depth: 4
   collapse_navigation: false
   prev_next_buttons_location: none # retira Next/Preview

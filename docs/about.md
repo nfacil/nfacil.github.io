@@ -10,9 +10,9 @@ Dúvidas, sugestões ou solicitação de suporte, nos envie um e-mail:
 
 | Versão | Expira em |
 |--------|-----------|
-| Protheus 12.1.2210 | 31/12/2025 [^1] | 
 | Protheus 12.1.2310 | 31/12/2026 [^1] |
 | Protheus 12.1.2410 | 30/06/2026 |
+| Protheus 12.1.2510 | 30/06/2027 |
 
 _Microsiga Protheus, AdvPL, TL++, TOTVS são produtos e marcas registradas de propriedade da TOTVS S.A. Logotipos TOTVS e Microsiga são de propriedade da TOTVS S.A._
 
